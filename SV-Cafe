@@ -1,2 +1,10 @@
 <html>
-  <b
+  <head>
+    <title>SV-Cafe</title>
+    <body>
+        <h1>welcome to my cafe</h2>
+        <h2>About us</h2>
+    </body>
+  </head>
+</html>
+  
